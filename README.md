@@ -17,6 +17,20 @@ This project visualizes food pantry usage patterns at the **University of Housto
 
 ### 2️⃣ Google Sheets – Real-Time Data Storage
 - The Google Form is connected to a **Google Spreadsheet**, where all submissions are automatically recorded.
+- Use the attached Spreadsheet to mount the data from google forms
+- Form Fields:
+  - **Name**
+  - **Timestamp**
+  - **Student_ID**
+  - **Date**
+  - **Day**
+  - **Time**
+  - **Item_Name**
+  - **Quantity**
+  - **Item_Category**
+  - **Week_Number**
+  - **Year_Week**
+  - **Timeslot**
 - Additional columns in the sheet process:
   - Date formatting
   - Time extraction
